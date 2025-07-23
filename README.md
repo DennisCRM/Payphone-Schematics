@@ -4,5 +4,5 @@ Documenation for circuitry inside of vintage payphones, specifically the 1D mode
 
 
 
-!\[alt text](./payphone.png "1D Payphone")
+![alt text](./payphone.png "1D Payphone")
 
